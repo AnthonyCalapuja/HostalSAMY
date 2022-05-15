@@ -23,6 +23,9 @@
             </li>
         </ul>
     </nav>
-
+    <p>Cambio random</p>
+    <?php
+    phpinfo();
+    ?>
 </body>
 </html>
